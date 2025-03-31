@@ -1,6 +1,6 @@
-# SaaS Project ✨
+# SaaS Project with next js ✨
 
-![Project Demo]([https://.gif](https://github.com/beus421/Saas-Project/blob/main/Saas-project.gif))
+![Project Demo]([https://github.com/beus421/Saas-Project/blob/main/Saas-project.gif))
 
 ## 🚀 Overview
 
