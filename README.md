@@ -6,14 +6,6 @@
 
 A modern SaaS application built with Next.js, TypeScript, and Tailwind CSS. This project provides [brief description of what your SaaS does].
 
-## ✨ Features
-
-- **Feature 1**: Description of feature
-- **Feature 2**: Description of feature
-- **Feature 3**: Description of feature
-- **Responsive Design**: Looks great on both desktop and mobile devices
-- **User Authentication**: Secure login and registration system
-
 ## 🛠️ Technologies Used
 
 - [Next.js](https://nextjs.org/) - React framework for production
